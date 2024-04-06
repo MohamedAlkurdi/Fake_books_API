@@ -1,0 +1,713 @@
+[
+    {
+        "id": "b4a8f65a-0342-4ff5-8bc2-60992f1c60ef",
+        "book_title": "The Martian",
+        "genre": "Science Fiction",
+        "writer": "Andy Weir",
+        "pages_number": 369,
+        "publisher": "Crown Publishers",
+        "release_date": "2011-09-27"
+    },
+    {
+        "id": "b0134eeb-2f53-4586-a340-62f261f32777",
+        "book_title": "1984",
+        "genre": "Dystopian Fiction",
+        "writer": "George Orwell",
+        "pages_number": 328,
+        "publisher": "Secker & Warburg",
+        "release_date": "1949-06-08"
+    },
+    {
+        "id": "f3b4b964-270b-4a8b-bbfc-0de4f44e15b3",
+        "book_title": "A Brief History of Time",
+        "genre": "Science",
+        "writer": "Stephen Hawking",
+        "pages_number": 256,
+        "publisher": "Bantam Books",
+        "release_date": "1988-04-21"
+    },
+    {
+        "id": "a5b4c7d8-9832-4fc4-aa24-e69f7ed8372e",
+        "book_title": "To Kill a Mockingbird",
+        "genre": "Fiction",
+        "writer": "Harper Lee",
+        "pages_number": 281,
+        "publisher": "J.B. Lippincott & Co.",
+        "release_date": "1960-07-11"
+    },
+    {
+        "id": "bfc20a26-4824-4ef7-a55d-7f37de54f9f1",
+        "book_title": "The Da Vinci Code",
+        "genre": "Mystery",
+        "writer": "Dan Brown",
+        "pages_number": 454,
+        "publisher": "Doubleday",
+        "release_date": "2003-03-18"
+    },
+    {
+        "id": "e3cfecb5-c7b6-45ac-8746-667a5c1cb79b",
+        "book_title": "Harry Potter and the Philosopher's Stone",
+        "genre": "Fantasy",
+        "writer": "J.K. Rowling",
+        "pages_number": 223,
+        "publisher": "Bloomsbury",
+        "release_date": "1997-06-26"
+    },
+    {
+        "id": "bd6b1535-6d62-4e4b-b468-1f4fe5cb0a84",
+        "book_title": "The Hobbit",
+        "genre": "Fantasy",
+        "writer": "J.R.R. Tolkien",
+        "pages_number": 310,
+        "publisher": "Allen & Unwin",
+        "release_date": "1937-09-21"
+    },
+    {
+        "id": "bb27a60d-5b02-4c63-87ac-131f4a37af5d",
+        "book_title": "The Catcher in the Rye",
+        "genre": "Fiction",
+        "writer": "J.D. Salinger",
+        "pages_number": 277,
+        "publisher": "Little, Brown and Company",
+        "release_date": "1951-07-16"
+    },
+    {
+        "id": "dcb0249a-8b8e-429a-a729-c0468b9f7ff5",
+        "book_title": "The Hunger Games",
+        "genre": "Science Fiction",
+        "writer": "Suzanne Collins",
+        "pages_number": 374,
+        "publisher": "Scholastic Corporation",
+        "release_date": "2008-09-14"
+    },
+    {
+        "id": "e1b065df-3aa3-44b6-81df-0b9bb28eeb0f",
+        "book_title": "The Great Gatsby",
+        "genre": "Fiction",
+        "writer": "F. Scott Fitzgerald",
+        "pages_number": 180,
+        "publisher": "Charles Scribner's Sons",
+        "release_date": "1925-04-10"
+    },
+    {
+        "id": "eda03f32-739b-4a11-bdc3-6bc23a73a030",
+        "book_title": "Brave New World",
+        "genre": "Science Fiction",
+        "writer": "Aldous Huxley",
+        "pages_number": 311,
+        "publisher": "Chatto & Windus",
+        "release_date": "1932-07-01"
+    },
+    {
+        "id": "db982335-5b11-41c8-b4b7-b14e20582d9d",
+        "book_title": "The Hitchhiker's Guide to the Galaxy",
+        "genre": "Science Fiction",
+        "writer": "Douglas Adams",
+        "pages_number": 193,
+        "publisher": "Pan Books",
+        "release_date": "1979-10-12"
+    },
+    {
+        "id": "ac1544c4-5df5-43aa-905b-d7d74b4f88e8",
+        "book_title": "Pride and Prejudice",
+        "genre": "Romance",
+        "writer": "Jane Austen",
+        "pages_number": 279,
+        "publisher": "T. Egerton, Whitehall",
+        "release_date": "1813-01-28"
+    },
+    {
+        "id": "c6473b4e-1416-4d10-81f5-cf1e20f0b17b",
+        "book_title": "Lord of the Flies",
+        "genre": "Fiction",
+        "writer": "William Golding",
+        "pages_number": 224,
+        "publisher": "Faber and Faber",
+        "release_date": "1954-09-17"
+    },
+    {
+        "id": "d2c9c694-8010-4c1c-9f51-9a3f67e8d944",
+        "book_title": "The Shining",
+        "genre": "Horror",
+        "writer": "Stephen King",
+        "pages_number": 447,
+        "publisher": "Doubleday",
+        "release_date": "1977-01-28"
+    },
+    {
+        "id": "a4f6c8bb-7732-41ab-80fb-5d0eb9f95aaf",
+        "book_title": "Moby-Dick",
+        "genre": "Adventure",
+        "writer": "Herman Melville",
+        "pages_number": 624,
+        "publisher": "Richard Bentley",
+        "release_date": "1851-10-18"
+    },
+    {
+        "id": "e6aa9798-1e90-4c7e-9731-f65f6e23cf24",
+        "book_title": "The Road",
+        "genre": "Dystopian Fiction",
+        "writer": "Cormac McCarthy",
+        "pages_number": 241,
+        "publisher": "Alfred A. Knopf",
+        "release_date": "2006-09-26"
+    },
+    {
+        "id": "fc8e9c54-d0ad-493f-a2bb-e5dcb75d7af4",
+        "book_title": "The Picture of Dorian Gray",
+        "genre": "Gothic Fiction",
+        "writer": "Oscar Wilde",
+        "pages_number": 254,
+        "publisher": "Ward, Lock and Company",
+        "release_date": "1890-06-20"
+    },
+    {
+        "id": "c7f38034-51f3-4932-8ba4-74f6f6b2f61b",
+        "book_title": "Frankenstein",
+        "genre": "Gothic Fiction",
+        "writer": "Mary Shelley",
+        "pages_number": 280,
+        "publisher": "Lackington, Hughes, Harding, Mavor & Jones",
+        "release_date": "1818-01-01"
+    },
+    {
+        "id": "c25f56f4-0b11-4d12-8b4d-589b5fd9bf8d",
+        "book_title": "The Girl with the Dragon Tattoo",
+        "genre": "Mystery",
+        "writer": "Stieg Larsson",
+        "pages_number": 590,
+        "publisher": "Norstedts Förlag",
+        "release_date": "2005-08-01"
+    },
+    {
+        "id": "ae8377b5-c189-4ad1-9e2f-22a702f4dca0",
+        "book_title": "The Count of Monte Cristo",
+        "genre": "Adventure",
+        "writer": "Alexandre Dumas",
+        "pages_number": 1276,
+        "publisher": "Pétion",
+        "release_date": "1844-08-28"
+    },
+    {
+        "id": "5a8e9aeb-c2b4-4c9f-91a6-8c3b2f97e3ee",
+        "book_title": "The Odyssey",
+        "genre": "Epic Poetry",
+        "writer": "Homer",
+        "pages_number": 417,
+        "publisher": "Various",
+        "release_date": "8th century BC"
+    },
+    {
+        "id": "c2e812f2-2f6a-45fc-87ff-30b9ad1728d2",
+        "book_title": "Frankenstein",
+        "genre": "Gothic Fiction",
+        "writer": "Mary Shelley",
+        "pages_number": 280,
+        "publisher": "Lackington, Hughes, Harding, Mavor & Jones",
+        "release_date": "1818-01-01"
+    },
+    {
+        "id": "4e0b8e99-7995-4155-aeb1-3d8c777d9175",
+        "book_title": "The Lord of the Rings",
+        "genre": "Fantasy",
+        "writer": "J.R.R. Tolkien",
+        "pages_number": 1178,
+        "publisher": "Allen & Unwin",
+        "release_date": "1954-07-29"
+    },
+    {
+        "id": "4e5c6c9c-d2a5-48b3-9ae4-787f64617dd6",
+        "book_title": "The Alchemist",
+        "genre": "Philosophical fiction",
+        "writer": "Paulo Coelho",
+        "pages_number": 177,
+        "publisher": "HarperCollins",
+        "release_date": "1988-01-01"
+    },
+    {
+        "id": "ad07e48b-9b95-4208-9e57-3a7682d2f00f",
+        "book_title": "The Road",
+        "genre": "Post-apocalyptic Fiction",
+        "writer": "Cormac McCarthy",
+        "pages_number": 287,
+        "publisher": "Knopf",
+        "release_date": "2006-09-26"
+    },
+    {
+        "id": "9d74d15d-20ed-49c8-b367-c474ff17c7f8",
+        "book_title": "The Stand",
+        "genre": "Post-apocalyptic Fiction",
+        "writer": "Stephen King",
+        "pages_number": 1153,
+        "publisher": "Doubleday",
+        "release_date": "1978-10-03"
+    },
+    {
+        "id": "a7f2e0b2-5a2e-4c32-b4f5-160a180b75c6",
+        "book_title": "Wuthering Heights",
+        "genre": "Gothic Fiction",
+        "writer": "Emily Brontë",
+        "pages_number": 342,
+        "publisher": "Thomas Cautley Newby",
+        "release_date": "1847-12-17"
+    },
+    {
+        "id": "cfdfe51e-20f2-4131-b6a6-425d191787fd",
+        "book_title": "The Picture of Dorian Gray",
+        "genre": "Gothic Fiction",
+        "writer": "Oscar Wilde",
+        "pages_number": 304,
+        "publisher": "Lippincott's Monthly Magazine",
+        "release_date": "1890-06-20"
+    },
+    {
+        "id": "d9b49e13-207d-4155-ba3d-8928906e05fc",
+        "book_title": "The Catcher in the Rye",
+        "genre": "Fiction",
+        "writer": "J.D. Salinger",
+        "pages_number": 277,
+        "publisher": "Little, Brown and Company",
+        "release_date": "1951-07-16"
+    },
+    {
+        "id": "7dbd7e6a-1c20-4b18-9247-994ec1a99f85",
+        "book_title": "Crime and Punishment",
+        "genre": "Psychological Fiction",
+        "writer": "Fyodor Dostoevsky",
+        "pages_number": 551,
+        "publisher": "The Russian Messenger",
+        "release_date": "1866-12-22"
+    },
+    {
+        "id": "4c9d07ef-4571-4d0c-944a-df17743e0d28",
+        "book_title": "The Grapes of Wrath",
+        "genre": "Realism",
+        "writer": "John Steinbeck",
+        "pages_number": 464,
+        "publisher": "The Viking Press",
+        "release_date": "1939-04-14"
+    },
+    {
+        "id": "dbd0508e-034f-4e15-a53e-86908641af7c",
+        "book_title": "The Brothers Karamazov",
+        "genre": "Philosophical Fiction",
+        "writer": "Fyodor Dostoevsky",
+        "pages_number": 796,
+        "publisher": "The Russian Messenger",
+        "release_date": "1880-11-06"
+    },
+    {
+        "id": "e73852db-1ed7-48e1-bf08-fa9f2c38da3e",
+        "book_title": "The Sun Also Rises",
+        "genre": "Modernist Literature",
+        "writer": "Ernest Hemingway",
+        "pages_number": 251,
+        "publisher": "Scribner",
+        "release_date": "1926-10-22"
+    },
+    {
+        "id": "55df515b-cfc7-4e6d-92b3-15200105a1b2",
+        "book_title": "The Book Thief",
+        "genre": "Historical Fiction",
+        "writer": "Markus Zusak",
+        "pages_number": 552,
+        "publisher": "Knopf",
+        "release_date": "2005-03-14"
+    },
+    {
+        "id": "9a0d3fc8-4da0-4f29-94a3-1a07602941c8",
+        "book_title": "The Sound and the Fury",
+        "genre": "Modernist Literature",
+        "writer": "William Faulkner",
+        "pages_number": 326,
+        "publisher": "Jonathan Cape & Harrison Smith",
+        "release_date": "1929-10-07"
+    },
+    {
+        "id": "6c8a0cbb-5aeb-4a86-ae7a-66b5b1b6973c",
+        "book_title": "The Chronicles of Narnia",
+        "genre": "Fantasy",
+        "writer": "C.S. Lewis",
+        "pages_number": 767,
+        "publisher": "Geoffrey Bles",
+        "release_date": "1950-10-16"
+    },
+    {
+        "id": "9b3b72af-7b2b-48e8-962d-1c52723e89df",
+        "book_title": "War and Peace",
+        "genre": "Historical Fiction",
+        "writer": "Leo Tolstoy",
+        "pages_number": 1225,
+        "publisher": "The Russian Messenger",
+        "release_date": "1869-01-01"
+    },
+    {
+        "id": "3a9f183f-1d3e-466f-8164-529227db7b3a",
+        "book_title": "The Count of Monte Cristo",
+        "genre": "Adventure",
+        "writer": "Alexandre Dumas",
+        "pages_number": 1276,
+        "publisher": "Ponson du Terrail",
+        "release_date": "1844-08-28"
+    },
+    {
+        "id": "96e42a3f-1c15-4f7d-a05a-2a6f60a5c682",
+        "book_title": "Gone with the Wind",
+        "genre": "Historical Fiction",
+        "writer": "Margaret Mitchell",
+        "pages_number": 1037,
+        "publisher": "Macmillan Publishers",
+        "release_date": "1936-06-30"
+    },
+    {
+        "id": "f44639ee-b49d-4bb4-88f2-aa8edec5301b",
+        "book_title": "Les Misérables",
+        "genre": "Historical Fiction",
+        "writer": "Victor Hugo",
+        "pages_number": 1488,
+        "publisher": "A. Lacroix, Verboeckhoven & Cie",
+        "release_date": "1862-03-15"
+    },
+    {
+        "id": "5f653bbf-84a3-4522-af85-31801a55e080",
+        "book_title": "The Stand",
+        "genre": "Post-apocalyptic Fiction",
+        "writer": "Stephen King",
+        "pages_number": 1153,
+        "publisher": "Doubleday",
+        "release_date": "1978-10-03"
+    },
+    {
+        "id": "a995ef11-f378-4d6a-816b-12f693bc20f2",
+        "book_title": "The Girl with the Dragon Tattoo",
+        "genre": "Crime Fiction",
+        "writer": "Stieg Larsson",
+        "pages_number": 672,
+        "publisher": "Norstedts Förlag",
+        "release_date": "2005-08-01"
+    },
+    {
+        "id": "872798ec-f1d8-4cbf-8f51-7ef45f84b139",
+        "book_title": "One Hundred Years of Solitude",
+        "genre": "Magical Realism",
+        "writer": "Gabriel García Márquez",
+        "pages_number": 417,
+        "publisher": "Harper & Row",
+        "release_date": "1967-05-30"
+    },
+    {
+        "id": "4e871b2e-1318-4373-9a29-51090d7fe729",
+        "book_title": "Moby-Dick",
+        "genre": "Adventure",
+        "writer": "Herman Melville",
+        "pages_number": 624,
+        "publisher": "Richard Bentley",
+        "release_date": "1851-10-18"
+    },
+    {
+        "id": "9b8538f2-6f1c-42b8-bde7-52e81a47d51e",
+        "book_title": "Pride and Prejudice",
+        "genre": "Romance",
+        "writer": "Jane Austen",
+        "pages_number": 279,
+        "publisher": "T. Egerton, Whitehall",
+        "release_date": "1813-01-28"
+    },
+    {
+        "id": "63b78b7e-8318-4c6f-b9e2-6e3fbac1fb98",
+        "book_title": "Anna Karenina",
+        "genre": "Realism",
+        "writer": "Leo Tolstoy",
+        "pages_number": 964,
+        "publisher": "The Russian Messenger",
+        "release_date": "1877-01-28"
+    },
+    {
+        "id": "a9dfc9c0-8b14-429e-96b9-8698b877df0b",
+        "book_title": "The Name of the Wind",
+        "genre": "Fantasy",
+        "writer": "Patrick Rothfuss",
+        "pages_number": 662,
+        "publisher": "Daw Books",
+        "release_date": "2007-03-27"
+    },
+    {
+        "id": "f06278a5-5b26-4cf4-8123-8d33e1d5406c",
+        "book_title": "The Stranger",
+        "genre": "Philosophical Fiction",
+        "writer": "Albert Camus",
+        "pages_number": 123,
+        "publisher": "Gallimard",
+        "release_date": "1942-06-01"
+    },
+    {
+        "id": "3ac4e68e-ee7e-45d0-87a7-73587db1f2a2",
+        "book_title": "Dracula",
+        "genre": "Gothic Horror",
+        "writer": "Bram Stoker",
+        "pages_number": 418,
+        "publisher": "Archibald Constable and Company",
+        "release_date": "1897-05-26"
+    },
+    {
+        "id": "f49b682d-d686-4d80-81c7-0ac9826d9349",
+        "book_title": "The War of the Worlds",
+        "genre": "Science Fiction",
+        "writer": "H.G. Wells",
+        "pages_number": 288,
+        "publisher": "William Heinemann",
+        "release_date": "1898-05-01"
+    },
+    {
+        "id": "8ae05b8e-5cb0-4431-b784-2ef20388df6b",
+        "book_title": "The Hitchhiker's Guide to the Galaxy",
+        "genre": "Science Fiction",
+        "writer": "Douglas Adams",
+        "pages_number": 224,
+        "publisher": "Pan Books",
+        "release_date": "1979-10-12"
+    },
+    {
+        "id": "31ac1ff2-2927-4e37-bd42-497fa2d9f0c4",
+        "book_title": "The Art of War",
+        "genre": "Philosophy",
+        "writer": "Sun Tzu",
+        "pages_number": 38,
+        "publisher": "Various",
+        "release_date": "5th century BC"
+    },
+    {
+        "id": "52e1a1d7-52b7-438f-8276-f501b16839e0",
+        "book_title": "The Secret Life of Bees",
+        "genre": "Fiction",
+        "writer": "Sue Monk Kidd",
+        "pages_number": 302,
+        "publisher": "Viking Press",
+        "release_date": "2001-11-08"
+    },
+    {
+        "id": "6e3f1860-12e8-42fc-89ff-6d01d8aaf2e2",
+        "book_title": "The Road Less Traveled",
+        "genre": "Psychology",
+        "writer": "M. Scott Peck",
+        "pages_number": 316,
+        "publisher": "Simon & Schuster",
+        "release_date": "1978-01-01"
+    },
+    {
+        "id": "aaf5de53-40f8-4d4d-b380-63ffae897fb7",
+        "book_title": "The Girl on the Train",
+        "genre": "Thriller",
+        "writer": "Paula Hawkins",
+        "pages_number": 316,
+        "publisher": "Riverhead Books",
+        "release_date": "2015-01-13"
+    },
+    {
+        "id": "8a5fca16-2562-4566-af2e-931cc16c2028",
+        "book_title": "The Stand",
+        "genre": "Post-apocalyptic Fiction",
+        "writer": "Stephen King",
+        "pages_number": 1153,
+        "publisher": "Doubleday",
+        "release_date": "1978-10-03"
+    },
+    {
+        "id": "8e2b6e8b-65ac-4927-a867-9be6fb2b69ae",
+        "book_title": "The Kite Runner",
+        "genre": "Historical Fiction",
+        "writer": "Khaled Hosseini",
+        "pages_number": 371,
+        "publisher": "Riverhead Books",
+        "release_date": "2003-05-29"
+    },
+    {
+        "id": "932a4f1e-3806-4e43-9e1a-f29e0f833cc9",
+        "book_title": "The Help",
+        "genre": "Historical Fiction",
+        "writer": "Kathryn Stockett",
+        "pages_number": 464,
+        "publisher": "Amy Einhorn Books",
+        "release_date": "2009-02-10"
+    },
+    {
+        "id": "0c3db5fd-f73f-44fc-903e-d00157f7282f",
+        "book_title": "A Tale of Two Cities",
+        "genre": "Historical Fiction",
+        "writer": "Charles Dickens",
+        "pages_number": 382,
+        "publisher": "Chapman & Hall",
+        "release_date": "1859-11-26"
+    },
+    {
+        "id": "47d11506-cd92-43c3-80a3-654ebca3c825",
+        "book_title": "The Bell Jar",
+        "genre": "Autobiographical Fiction",
+        "writer": "Sylvia Plath",
+        "pages_number": 244,
+        "publisher": "Heinemann",
+        "release_date": "1963-01-14"
+    },
+    {
+        "id": "b99e0b5c-1f23-4744-9772-ec6d0cf6d78a",
+        "book_title": "The Color Purple",
+        "genre": "Epistolary Novel",
+        "writer": "Alice Walker",
+        "pages_number": 295,
+        "publisher": "Harcourt Brace Jovanovich",
+        "release_date": "1982-02-25"
+    },
+    {
+        "id": "6c6fbd34-5e47-45a9-9c4c-2edcb4e1bc78",
+        "book_title": "The Goldfinch",
+        "genre": "Fiction",
+        "writer": "Donna Tartt",
+        "pages_number": 864,
+        "publisher": "Little, Brown and Company",
+        "release_date": "2013-10-22"
+    },
+    {
+        "id": "5bda2cc5-9950-4e2c-a17c-25b10c07f46d",
+        "book_title": "The Handmaid's Tale",
+        "genre": "Dystopian Fiction",
+        "writer": "Margaret Atwood",
+        "pages_number": 311,
+        "publisher": "McClelland and Stewart",
+        "release_date": "1985-09-17"
+    },
+    {
+        "id": "c107bc24-0fbb-45f3-8f4d-9c6a8cb0ebe6",
+        "book_title": "The Little Prince",
+        "genre": "Children's Literature",
+        "writer": "Antoine de Saint-Exupéry",
+        "pages_number": 91,
+        "publisher": "Reynal & Hitchcock",
+        "release_date": "1943-04-06"
+    },
+    {
+        "id": "a09b0919-d635-4d18-b362-d0a514c4218e",
+        "book_title": "The Martian",
+        "genre": "Science Fiction",
+        "writer": "Andy Weir",
+        "pages_number": 369,
+        "publisher": "Crown Publishers",
+        "release_date": "2011-09-27"
+    },
+    {
+        "id": "56bf09a1-f484-4f2a-bf67-bc1f964c0b05",
+        "book_title": "The Catcher in the Rye",
+        "genre": "Fiction",
+        "writer": "J.D. Salinger",
+        "pages_number": 277,
+        "publisher": "Little, Brown and Company",
+        "release_date": "1951-07-16"
+    },
+    {
+        "id": "37d1877b-8083-4d57-b98f-5d13e4f97732",
+        "book_title": "Sapiens: A Brief History of Humankind",
+        "genre": "Non-fiction",
+        "writer": "Yuval Noah Harari",
+        "pages_number": 443,
+        "publisher": "Harper",
+        "release_date": "2011-07-15"
+    },
+    {
+        "id": "abf823fd-0d2c-4fe3-8ed2-2bda2b8fd57a",
+        "book_title": "The Road",
+        "genre": "Post-apocalyptic Fiction",
+        "writer": "Cormac McCarthy",
+        "pages_number": 287,
+        "publisher": "Knopf",
+        "release_date": "2006-09-26"
+    },
+    {
+        "id": "d73604b5-6a87-45a1-a1ae-8df5ff0e6a7f",
+        "book_title": "The Great Gatsby",
+        "genre": "Fiction",
+        "writer": "F. Scott Fitzgerald",
+        "pages_number": 180,
+        "publisher": "Charles Scribner's Sons",
+        "release_date": "1925-04-10"
+    },
+    {
+        "id": "8dc07d4c-67a1-44ef-92e2-2be159d184ec",
+        "book_title": "The Old Man and the Sea",
+        "genre": "Novella",
+        "writer": "Ernest Hemingway",
+        "pages_number": 127,
+        "publisher": "Charles Scribner's Sons",
+        "release_date": "1952-09-01"
+    },
+    {
+        "id": "b2d9a951-3745-4964-92b1-fd778ef9df39",
+        "book_title": "The Hobbit",
+        "genre": "Fantasy",
+        "writer": "J.R.R. Tolkien",
+        "pages_number": 310,
+        "publisher": "Allen & Unwin",
+        "release_date": "1937-09-21"
+    },
+    {
+        "id": "e9328ed0-9b3c-4594-8622-1b4ec3a1429b",
+        "book_title": "The Brothers Karamazov",
+        "genre": "Philosophical Fiction",
+        "writer": "Fyodor Dostoevsky",
+        "pages_number": 796,
+        "publisher": "The Russian Messenger",
+        "release_date": "1880-11-06"
+    },
+    {
+        "id": "908b77df-0777-4f61-8f07-3d9e52552f62",
+        "book_title": "Crime and Punishment",
+        "genre": "Psychological Fiction",
+        "writer": "Fyodor Dostoevsky",
+        "pages_number": 551,
+        "publisher": "The Russian Messenger",
+        "release_date": "1866-12-22"
+    },
+    {
+        "id": "9539aee7-5883-40fc-8da5-76a0fde5b84c",
+        "book_title": "The Divine Comedy",
+        "genre": "Epic Poetry",
+        "writer": "Dante Alighieri",
+        "pages_number": 798,
+        "publisher": "Various",
+        "release_date": "14th century"
+    },
+    {
+        "id": "f91c5ebf-12cb-4389-8bfc-64654f39058d",
+        "book_title": "The Silmarillion",
+        "genre": "Fantasy",
+        "writer": "J.R.R. Tolkien",
+        "pages_number": 365,
+        "publisher": "Allen & Unwin",
+        "release_date": "1977-09-15"
+    },
+    {
+        "id": "32067821-ef81-46b8-834b-23de2bbf4fe3",
+        "book_title": "The Name of the Wind",
+        "genre": "Fantasy",
+        "writer": "Patrick Rothfuss",
+        "pages_number": 662,
+        "publisher": "Daw Books",
+        "release_date": "2007-03-27"
+    },
+    {
+        "id": "fd019b02-e6f1-4643-a3ee-99278b9171c1",
+        "book_title": "The Shadow of the Wind",
+        "genre": "Historical Fiction",
+        "writer": "Carlos Ruiz Zafón",
+        "pages_number": 487,
+        "publisher": "Penguin Books",
+        "release_date": "2001-01-25"
+    },
+    {
+        "id": "f9bc7f5e-35c7-4267-9f60-cff5c1694332",
+        "book_title": "The Girl with the Dragon Tattoo",
+        "genre": "Crime Fiction",
+        "writer": "Stieg Larsson",
+        "pages_number": 672,
+        "publisher": "Norstedts Förlag",
+        "release_date": "2005-08-01"
+    }
+]

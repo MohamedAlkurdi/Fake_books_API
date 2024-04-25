@@ -37,6 +37,7 @@ app.get('/books',async(req,res)=>{
 app.get('/books/:id',async(req,res)=>{
   try{
     const {id} = req.params;
+    console.log(id);
     const book = await Book.findById(id);
     res.status(200).json(book)
   }catch(err){
